@@ -53,7 +53,7 @@ Console.WriteLine($"Количество чётных чисел в массив
 // [3, 7, 23, 12] -> 19
 //  [-4, -6, 89, 6] -> 0
 
-/* Console.Write($"Введите количество элементов массива: ");
+ Console.Write($"Введите количество элементов массива: ");
 int numberElements = Convert.ToInt32(Console.ReadLine()); 
 
 int RandomNumbers(int numberElements, int min, int max)
@@ -79,7 +79,7 @@ int randomNumbers =  RandomNumbers(numberElements, 1, 10);
 
 Console.WriteLine($"\nСумма элементов, стоящих на нечётных позициях: {randomNumbers}");
 
-*/
+
 
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 // Задача 38: Задайте массив вещественных чисел. 
